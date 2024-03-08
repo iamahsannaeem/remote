@@ -21,7 +21,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <p>Hi i am Ahsan Naeem and I am a full stack web developer</p>
+        <p>Hi i am Ahmad Naeem and I am a full stack web developer</p>
         <p>This line add in dev 1 branch </p>
       </div>
       <p className="read-the-docs">
