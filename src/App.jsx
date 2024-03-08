@@ -8,7 +8,11 @@ function App() {
 
   return (
     <>
+<<<<<<< HEAD
       <h1>Hello</h1>
+=======
+      <h1>Hello 2</h1>
+>>>>>>> dev1
     </>
   )
 }
